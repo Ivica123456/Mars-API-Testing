@@ -1,0 +1,4 @@
+C:\Users\Ivica\Desktop\MarsAPI_Testing>newman run MarsAPI.postman_collection.json -e Mars.postman_environment.json -r htmlextra
+
+
+C:\Users\Ivica\Desktop\MarsAPI_Testing>newman run "C:\Users\Ivica\Desktop\MarsAPI_Testing\Day 08- Output test results.postman_collection.json"  --folder "Variables and scripts Copy"
